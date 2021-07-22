@@ -1,5 +1,6 @@
 ### 안녕하세요 매일매일 아는 것이 늘어나고 있는 대학생 개발자 서은수입니다 👋
 - 🌱 I’m currently learning ... C & Java!
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEunsuSeo01)](https://gits.seeyoufarm.com)
 <!--
 **EunsuSeo01/EunsuSeo01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
