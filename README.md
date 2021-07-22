@@ -1,5 +1,5 @@
 ### 안녕하세요 매일매일 아는 것이 늘어나고 있는 대학생 개발자 서은수입니다 👋
-
+- 🌱 I’m currently learning ... C & Java!
 <!--
 **EunsuSeo01/EunsuSeo01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
