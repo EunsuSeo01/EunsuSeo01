@@ -17,4 +17,5 @@ Here are some ideas to get you started:
 -->
 
 [![github_stats](https://github-readme-stats.vercel.app/api?username=EunsuSeo01&show_icons=true&hide_border=true)](https://github.com/EunsuSeo01)
+
 [![Top_Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EunsuSeo01&layout=compact)](https://github.com/EunsuSeo01)
