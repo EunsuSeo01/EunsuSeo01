@@ -20,3 +20,6 @@ Here are some ideas to get you started:
 [![github_stats](https://github-readme-stats.vercel.app/api?username=EunsuSeo01&show_icons=true&hide_border=true)](https://github.com/EunsuSeo01)
 
 [![Top_Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EunsuSeo01&layout=compact)](https://github.com/EunsuSeo01)
+
+
+<a href="[연결할 링크]" target="_blank"><img src="https://img.shields.io/badge/Spring Boot-#6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>
