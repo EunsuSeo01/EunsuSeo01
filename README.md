@@ -21,5 +21,6 @@ Here are some ideas to get you started:
 
 [![Top_Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EunsuSeo01&layout=compact)](https://github.com/EunsuSeo01)
 
-🛠 Tech Stacks
+### 🛠 Tech Stacks
+
 <img src="https://img.shields.io/badge/-C-yellow?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/-Java-green?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/-Spring%20boot-blue?style=flat-square&logo=Spring%20boot&logoColor=white"/>
