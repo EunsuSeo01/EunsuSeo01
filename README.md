@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 [![Top_Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EunsuSeo01&layout=compact)](https://github.com/EunsuSeo01)
 
 
-<img src="https://img.shields.io/badge/Spring Boot-#6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring Boot-#6DB33F?style=flat-square&logoColor=white"/>
