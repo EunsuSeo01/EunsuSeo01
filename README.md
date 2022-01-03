@@ -24,3 +24,4 @@ Here are some ideas to get you started:
 ### 🛠 Tech Stacks
 
 <img src="https://img.shields.io/badge/-C-yellow?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/-Java-green?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/-Spring%20boot-blue?style=flat-square&logo=Spring%20boot&logoColor=white"/>
+<img src="https://img.shields.io/badge/-MySQL-navy?style=flat-square&logo=MySQL&logoColor=white"/>
