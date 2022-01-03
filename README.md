@@ -1,5 +1,5 @@
 ### 안녕하세요 매일매일 아는 것이 늘어나고 있는 대학생 개발자 서은수입니다 👋
-- - -
+* * *
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEunsuSeo01)](https://gits.seeyoufarm.com)
 - 🌱 I’m currently learning ... C & Java!
 - 🔭 I'm focusing on learning Spring Boot these days!
@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 [![Top_Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EunsuSeo01&layout=compact)](https://github.com/EunsuSeo01)
 
 ### 🛠 Tech Stacks
-- - -
+* * *
 <img src="https://img.shields.io/badge/-C-yellow?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/-Java-green?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/-Spring%20boot-blue?style=flat-square&logo=Spring%20boot&logoColor=white"/>
 <img src="https://img.shields.io/badge/-MySQL-navy?style=flat-square&logo=MySQL&logoColor=white"/>
