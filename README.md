@@ -1,6 +1,8 @@
 ### 안녕하세요 매일매일 아는 것이 늘어나고 있는 대학생 개발자 서은수입니다 👋
-* * *
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEunsuSeo01)](https://gits.seeyoufarm.com)
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=FFCC66&height=270&section=header&text=Eun%20Su%20Seo&fontSize=90)
+
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEunsuSeo01)
 - 🌱 I'm a novice developer 
 - 🤔 I'm currently interested in front-end development
 - 🔭 So I'm focusing on learning Swift these days! 😁
@@ -34,7 +36,8 @@ Here are some ideas to get you started:
 <!-- <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a> &nbsp -->
 <img src="https://img.shields.io/badge/-C-yellow?style=flat-square&logo=C&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/-Java-green?style=flat-square&logo=Java&logoColor=white"/> &nbsp
+<img src="https://img.shields.io/badge/-Spring%20boot-blue?style=flat-square&logo=Spring%20boot&logoColor=white"/> &nbsp 
+<img src="https://img.shields.io/badge/-Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> &nbsp 
-<img src="https://img.shields.io/badge/-Spring%20boot-blue?style=flat-square&logo=Spring%20boot&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a> &nbsp
 </p>
