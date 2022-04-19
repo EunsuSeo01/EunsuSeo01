@@ -1,6 +1,6 @@
 ### 안녕하세요 매일매일 아는 것이 늘어나고 있는 대학생 개발자 서은수입니다 👋
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=FFCC66&height=270&section=header&text=Eun%20Su%20Seo&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=FFCC66&height=270&section=header&text=Eun%20Su%20Seo&fontSize=90&fontColor=FFFFFF&animation=twinkling)
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEunsuSeo01)
 - 🌱 I'm a novice developer 
