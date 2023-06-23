@@ -10,10 +10,10 @@
 - 👩🏻‍💻 [가천대학교 AI·소프트웨어학과(소프트웨어전공)](https://sw.gachon.ac.kr/cms/) 3학년 재학 중 (2020.03 ~ )
 
 ### 🏄🏻‍♂️ Activities
-- 🧳 [Universial Makeus Challenge](https://www.makeus.in/umc) GCU 1st Server(Spring boot) 트랙 수료
-- 🍏 [Universial Makeus Challenge](https://www.makeus.in/umc) GCU 2nd iOS 트랙 수료
-- 🍎 [Universial Makeus Challenge](https://www.makeus.in/umc) GCU 3rd iOS 파트장
-- 👩🏻‍🏫 [Universial Makeus Challenge](https://www.makeus.in/umc) GCU 4th iOS 파트장
+- 🧳 [Universial Makeus Challenge](https://www.makeus.in/umc) GCU 1st Server(Spring boot) 트랙 수료 (2021.09 - 2022.02)
+- 🍏 [Universial Makeus Challenge](https://www.makeus.in/umc) GCU 2nd iOS 트랙 수료 (2022.03 - 2022.08)
+- 🍎 [Universial Makeus Challenge](https://www.makeus.in/umc) GCU 3rd iOS 파트장 (2022.09 - 2023.02)
+- 👩🏻‍🏫 [Universial Makeus Challenge](https://www.makeus.in/umc) GCU 4th iOS 파트장 (2023.03 ~ )
 
 ### 📊 Github Stats
 [![github_stats](https://github-readme-stats.vercel.app/api?username=EunsuSeo01&show_icons=true&hide_border=true)](https://github.com/EunsuSeo01)
