@@ -13,8 +13,8 @@
 - 🧳 [Universial Makeus Challenge](https://www.makeus.in/umc) GCU 1st Server(Spring boot) 트랙 수료 (2021.09 - 2022.02)
 - 🍏 [Universial Makeus Challenge](https://www.makeus.in/umc) GCU 2nd iOS 트랙 수료 (2022.03 - 2022.08)
 - 🍎 [Universial Makeus Challenge](https://www.makeus.in/umc) GCU 3rd iOS 파트장 (2022.09 - 2023.02)
-- 👩🏻‍🏫 [Universial Makeus Challenge](https://www.makeus.in/umc) GCU 4th iOS 파트장 (2023.03 ~ )
-- 💻 [DND](https://www.dnd.ac/) 9th iOS Developer (2023.07 ~ )
+- 👩🏻‍🏫 [Universial Makeus Challenge](https://www.makeus.in/umc) GCU 4th iOS 파트장 (2023.03 - 2023.08 )
+- 💻 [DND](https://www.dnd.ac/) 9th iOS Developer (2023.07 - 2023.08 )
 
 ### 📊 Github Stats
 [![github_stats](https://github-readme-stats.vercel.app/api?username=EunsuSeo01&show_icons=true&hide_border=true)](https://github.com/EunsuSeo01)
