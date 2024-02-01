@@ -15,6 +15,7 @@
 - 🍎 [Universial Makeus Challenge](https://www.makeus.in/umc) GCU 3rd iOS 파트장 (2022.09 - 2023.02)
 - 👩🏻‍🏫 [Universial Makeus Challenge](https://www.makeus.in/umc) GCU 4th iOS 파트장 (2023.03 - 2023.08)
 - 💻 [DND](https://www.dnd.ac/) 9th iOS Developer (2023.07 - 2023.08)
+- 🇺🇸 [PeopleSpace](https://www.irvinetechhub.com/projects/ai-program) AI Program (2024.01 - 2024.02)
 
 ### 📊 Github Stats
 [![github_stats](https://github-readme-stats.vercel.app/api?username=EunsuSeo01&show_icons=true&hide_border=true)](https://github.com/EunsuSeo01)
