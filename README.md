@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&section=header&text=Eun%20Su%20Seo&fontSize=90&fontColor=FFFFFF&animation=twinkling)
 
 ### 🫠 About Me
-[<img src="https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/>](https://humdrum-scourge-892.notion.site/38ec6006bcad4c1185cb328e4fbb655f?pvs=4)
+[<img src="https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/>](https://humdrum-scourge-892.notion.site/38ec6006bcad4c1185cb328e4fbb655f)
 
 
 ### 🏫 Education
