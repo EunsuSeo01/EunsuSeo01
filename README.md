@@ -3,11 +3,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&section=header&text=Eun%20Su%20Seo&fontSize=90&fontColor=FFFFFF&animation=twinkling)
 
 ### 🫠 About Me
-[<img src="https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/>](https://humdrum-scourge-892.notion.site/38ec6006bcad4c1185cb328e4fbb655f)
+[<img src="https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/>](https://humdrum-scourge-892.notion.site/17e72203310b46598bd7936e80e9114d?pvs=4)
 
 
 ### 🏫 Education
-- 👩🏻‍💻 [가천대학교 AI·소프트웨어학과(소프트웨어전공)](https://sw.gachon.ac.kr/cms/) 3학년 재학 중 (2020.03 ~ )
+- 👩🏻‍💻 [가천대학교 AI·소프트웨어학과(소프트웨어전공)](https://sw.gachon.ac.kr/cms/) 4학년 재학 중 (2020.03 ~ )
 
 ### 🚀 Activities
 - 🧳 [Universial Makeus Challenge](https://www.makeus.in/umc) GCU 1st Server(Spring boot) 트랙 수료 (2021.09 - 2022.02)
