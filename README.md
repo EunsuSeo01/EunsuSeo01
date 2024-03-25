@@ -1,5 +1,3 @@
-## 👋🏻 안녕하세요 iOS 개발자를 꿈꾸는 서은수입니다 🌊
-
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&section=header&text=Eun%20Su%20Seo&fontSize=90&fontColor=FFFFFF&animation=twinkling)
 
 ### 🫠 About Me
