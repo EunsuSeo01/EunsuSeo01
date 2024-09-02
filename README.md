@@ -1,8 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&section=header&text=Eun%20Su%20Seo&fontSize=90&fontColor=FFFFFF&animation=twinkling)
 
-### 🫠 About Me
-[<img src="https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/>](https://humdrum-scourge-892.notion.site/17e72203310b46598bd7936e80e9114d?pvs=4)
-
 ### 🏫 Education
 - 👩🏻‍💻 [가천대학교 AI·소프트웨어학과(소프트웨어전공)](https://sw.gachon.ac.kr/cms/) 4학년 재학 중 (2020.03 ~ )
 
@@ -13,7 +10,7 @@
 - 👩🏻‍🏫 [Universial Makeus Challenge](https://www.makeus.in/umc) GCU 4th iOS 파트장 (2023.03 - 2023.08)
 - 💻 [DND](https://www.dnd.ac/) 9th iOS Developer (2023.07 - 2023.08)
 - 🇺🇸 [PeopleSpace](https://www.irvinetechhub.com/projects/ai-program) AI Program (2024.01 - 2024.02)
-- 🔥 [SOPT](https://www.sopt.org/) 34th iOS 파트 YB (2024.03 ~ )
+- 🔥 [SOPT](https://www.sopt.org/) 34th iOS 파트 YB (2024.03 - 2024.07)
 
 
 ### 📊 Github Stats
