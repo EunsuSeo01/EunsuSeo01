@@ -4,13 +4,13 @@
 - 👩🏻‍💻 [가천대학교 AI·소프트웨어학과(소프트웨어전공)](https://sw.gachon.ac.kr/cms/) 4학년 재학 중 (2020.03 ~ )
 
 ### 🚀 Activities
-- 🧳 [Universial Makeus Challenge](https://www.makeus.in/umc) GCU 1st Server (Spring boot) 파트 (2021.09 - 2022.02)
-- 🍏 [Universial Makeus Challenge](https://www.makeus.in/umc) GCU 2nd iOS 파트 (2022.03 - 2022.08)
-- 🍎 [Universial Makeus Challenge](https://www.makeus.in/umc) GCU 3rd iOS 파트장 (2022.09 - 2023.02)
-- 👩🏻‍🏫 [Universial Makeus Challenge](https://www.makeus.in/umc) GCU 4th iOS 파트장 (2023.03 - 2023.08)
-- 💻 [DND](https://www.dnd.ac/) 9th iOS Developer (2023.07 - 2023.08)
-- 🇺🇸 [PeopleSpace](https://www.irvinetechhub.com/projects/ai-program) AI Program (2024.01 - 2024.02)
 - 🔥 [SOPT](https://www.sopt.org/) 34th iOS 파트 YB (2024.03 - 2024.07)
+- 🇺🇸 [PeopleSpace](https://www.irvinetechhub.com/projects/ai-program) AI Program (2024.01 - 2024.02)
+- 💻 [DND](https://www.dnd.ac/) 9th iOS Developer (2023.07 - 2023.08)
+- 👩🏻‍🏫 [Universial Makeus Challenge](https://www.makeus.in/umc) GCU 4th iOS 파트장 (2023.03 - 2023.08)
+- 🍎 [Universial Makeus Challenge](https://www.makeus.in/umc) GCU 3rd iOS 파트장 (2022.09 - 2023.02)
+- 🍏 [Universial Makeus Challenge](https://www.makeus.in/umc) GCU 2nd iOS 파트 (2022.03 - 2022.08)
+- 🧳 [Universial Makeus Challenge](https://www.makeus.in/umc) GCU 1st Server (Spring boot) 파트 (2021.09 - 2022.02)
 
 
 ### 📊 Github Stats
