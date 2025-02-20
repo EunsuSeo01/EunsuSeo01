@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&section=header&text=Eun%20Su%20Seo&fontSize=90&fontColor=FFFFFF&animation=twinkling)
 
 ### 🏫 Education
-- 👩🏻‍💻 [가천대학교 AI·소프트웨어학과(소프트웨어전공)](https://sw.gachon.ac.kr/cms/) 4학년 재학 중 (2020.03 ~ )
+- 👩🏻‍💻 [가천대학교 AI·소프트웨어학과(소프트웨어전공)](https://sw.gachon.ac.kr/cms/) (2020.03 - 2025.02 )
 
 ### 🚀 Activities
 - 🔥 [SOPT](https://www.sopt.org/) 34th iOS 파트 YB (2024.03 - 2024.07)
