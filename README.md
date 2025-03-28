@@ -28,6 +28,3 @@
 
 ### 🏅 Ranking
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=eunsu0613)](https://solved.ac/eunsu0613/)
-
-### 👀 My Hits
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEunsuSeo01)
