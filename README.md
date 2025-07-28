@@ -4,6 +4,7 @@
 - 👩🏻‍💻 [가천대학교 AI·소프트웨어학과(소프트웨어전공)](https://sw.gachon.ac.kr/cms/) (2020.03 - 2025.02)
 
 ### 🚀 Activities
+- 🚀 [SKALA](https://www.skala.co.kr/) 2기 (2025.07 - 2025.12)
 - 🔥 [SOPT](https://www.sopt.org/) 34th iOS 파트 YB (2024.03 - 2024.07)
 - 🇺🇸 [PeopleSpace](https://www.irvinetechhub.com/projects/ai-program) AI Program (2024.01 - 2024.02)
 - 💻 [DND](https://www.dnd.ac/) 9th iOS Developer (2023.07 - 2023.08)
